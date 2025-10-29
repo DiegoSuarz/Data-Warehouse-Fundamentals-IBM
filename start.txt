@@ -1,0 +1,9 @@
+pgadmin-start  iniciar pgAdmin4 web
+/var/lib/pgadmin/storage/dg_suarz_outlook.com   ruta para copiar los archivos
+
+Postgres en WLS:
+172.24.98.11
+5432
+
+conectar al Postgres de wls desde Windows:
+psql -h 172.24.98.11 -U postgres -p 5432
